@@ -1,0 +1,42 @@
+[
+    {
+        "domanda": "La frase 'Don Abbondio non era nato con un cuor di leone' è:",
+        "sceltemultiple": [
+          "A) una litote",
+          "B) un'antifrasi",
+          "C) una metafora",
+          "D) una metonimia",
+          "E) un ossimoro"
+        ]
+      },
+      {
+        "domanda": "La scoperta delle vitamine fu una vera e propria rivoluzione. In effetti l’era della ricerca vitaminica comincia alla fine del XIX secolo, in un’epoca in cui i lavori di Pasteur mettono in evidenza che la presenza di agenti esogeni (microbi o tossine microbiche) è responsabile di alcune malattie. Per le vitamine, i ricercatori dovranno attenersi ad un modo di procedere inverso in quanto è l’assenza di un fattore nutrizionale che è all’origine delle grandi malattie carenziali: beri-beri, scorbuto, rachitismo, pellagra. […] Le vitamine sono sostanze organiche, senza valore energetico proprio, necessarie per l’organismo e che l’uomo non può sintetizzare in quantità sufficiente; devono essere quindi fornite dall’alimentazione. Le vitamine costituiscono un gruppo di molecole chimicamente molto eterogeneo; alcune di esse hanno strutture che somigliano a quelle di altri composti organici: vitamina C e zuccheri, vitamina D e ormoni steroidei, vitamina B12 e porfirine. (J. Le Grusse, B. Waitier − Le vitamine − Centro studi Roche)\n\nQuale delle seguenti affermazioni non è deducibile dal testo?",
+        "sceltemultiple": [
+          "A) La presenza di vitamine è all’origine di alcune malattie carenziali",
+          "B) Le vitamine sono sostanze organiche",
+          "C) L’uomo è in grado di sintetizzare le vitamine",
+          "D) Alcune vitamine hanno struttura chimica differente fra loro",
+          "E) Non tutte le vitamine hanno struttura chimica simile a quella degli zuccheri"
+        ]
+      },
+      {
+        "domanda": "“Fenomeno consistente nella riduzione del livello generale dei prezzi e nel conseguente aumento del potere d’acquisto della moneta, generalmente determinati da una riduzione della quantità di moneta in circolazione rispetto al reddito prodotto: si tratta di un fenomeno indesiderato manifestatosi generalmente associato a una riduzione dell’attività economica.” (Enciclopedia Treccani)\n\nA quale dei seguenti termini si riferisce la definizione sopra riportata?",
+        "sceltemultiple": [
+          "A) deflazione",
+          "B) inflazione",
+          "C) stagnazione",
+          "D) recessione",
+          "E) nessuna delle altre proposte è corretta"
+        ]
+      },
+      {
+        "domanda": "Accanto a ciascuna riflessione sui testi biblici, è stato inserito il riferimento a una vicenda storica, contemporanea o vicina al nostro tempo. […..] Persino nel nostro tempo molte altre figure potrebbero essere riconosciute capaci di profezia: sono uomini e donne, anche decisamente estranei alla comunità ecclesiale, che sanno ascoltare le parole di speranza delle Scritture, pur senza chiamarle “sacre”; che sanno riconoscere la Via che conduce al bene dell’umanità senza chiamarla “salvezza”; che spendono la loro vita per accompagnare gli altri alla pienezza di sé e del dono in loro seminato, anche senza appellarsi all’etica che sgorga dall’esperienza cristiana; che incarnano con convinzione e dedizione la ricchezza che noi conosciamo dalla Buona Notizia di Gesù, magari anche senza riferircisi o conoscerla.\nOrazio Antoniazzi − Lo Spirito come il Vento soffia dove vuole − Centro Ambrosiano\n\nQuale delle seguenti deduzioni ricavate dalla lettura del testo è corretta?",
+        "sceltemultiple": [
+          "A) Gli uomini e le donne riconosciuti capaci di profezia accompagnano gli altri alla pienezza di sé",
+          "B) Gli uomini e le donne riconosciuti capaci di profezia sono esclusivamente persone estranee alla comunità ecclesiale",
+          "C) Gli uomini e le donne riconosciuti capaci di profezia ritengono “sacre” le parole di speranza delle Scritture",
+          "D) Gli uomini e le donne riconosciuti capaci di profezia si appellano unicamente all’esperienza cristiana",
+          "E) Gli uomini e le donne riconosciuti capaci di profezia reputano che l’unica salvezza sia la Via che conduce al bene dell’umanità"
+        ]
+      }   
+]

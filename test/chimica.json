@@ -1,0 +1,140 @@
+[
+    {
+        "domanda": "Quale delle seguenti sequenze mette correttamente in ordine di ossigenazione crescente i composti organici citati?",
+        "sceltemultiple": [
+          "A) Alcol, aldeide, acido carbossilico",
+          "B) Alcol, acido carbossilico, aldeide",
+          "C) Aldeide, alcol, acido carbossilico",
+          "D) Aldeide, acido carbossilico, alcol",
+          "E) Acido carbossilico, alcol, aldeide"
+        ]
+      },{
+        "domanda": "Qual è la formula bruta di un alcano avente n atomi di carbonio?",
+        "sceltemultiple": [
+          "A) C_nH_2n+2",
+          "B) C_nH_2n",
+          "C) C_nH_2n-2",
+          "D) C_nH_n+2",
+          "E) C_nH_n"
+        ]
+      },
+      {
+        "domanda": "Il benzene è:",
+        "sceltemultiple": [
+          "A) un idrocarburo aromatico con 6 atomi di carbonio",
+          "B) un idrocarburo saturo con 6 atomi di carbonio",
+          "C) un idrocarburo aromatico con 5 atomi di carbonio",
+          "D) un idrocarburo non aromatico con 6 atomi di carbonio",
+          "E) un composto aromatico non idrocarburico con 6 atomi di carbonio"
+        ]
+      },
+      {
+        "domanda": "In base alla teoria di Lewis, una base è una sostanza in grado di:",
+        "sceltemultiple": [
+          "A) donare un doppietto elettronico non condiviso",
+          "B) accettare un doppietto elettronico non condiviso",
+          "C) donare un elettrone",
+          "D) accettare un elettrone",
+          "E) formare un legame ionico"
+        ]
+      },{
+        "domanda": "Il punto triplo di una sostanza è un particolare stato termodinamico determinato da valori di pressione e temperatura in corrispondenza del quale:",
+        "sceltemultiple": [
+          "A) gli stati solido, liquido e vapore coesistono in equilibrio",
+          "B) avviene la sublimazione",
+          "C) non è possibile liquefare la sostanza allo stato gassoso per semplice compressione",
+          "D) in presenza di vapore il solido galleggia sul liquido",
+          "E) la sostanza ha la massima densità"
+        ]
+      },{
+        "domanda": "Quale tra i seguenti elementi chimici è un metallo alcalino-terroso?",
+        "sceltemultiple": [
+          "A) Bario",
+          "B) Boro",
+          "C) Potassio",
+          "D) Litio",
+          "E) Zolfo"
+        ]
+      },{
+        "domanda": "Un acido forte solubilizzato in acqua:",
+        "sceltemultiple": [
+          "A) si dissocia completamente",
+          "B) si dissocia solo parzialmente",
+          "C) è completamente indissociato",
+          "D) ha una costante di dissociazione acida Ka molto piccola",
+          "E) produce una soluzione con pH > 7"
+        ]
+      },{
+        "domanda": "CH3-CH2-NH-CH2-CH3",
+        "sceltemultiple": [
+          "A) È una amina secondaria",
+          "B) È una amina primaria",
+          "C) È una amina terziaria",
+          "D) È una ammide",
+          "E) È un azide"
+        ]
+      },{
+        "domanda": "Il fenolo:",
+        "sceltemultiple": [
+          "A) È un acido debole",
+          "B) È una base debole",
+          "C) È un idrocarburo aromatico e pertanto neutro",
+          "D) È un idrocarburo aromatico a 5 atomi di carbonio",
+          "E) È un idrocarburo aromatico che contiene un gruppo aldeidico"
+        ]
+      },{
+        "domanda": "Bilanciare la seguente reazione: SiO2 + HF => H2O + SiF4",
+        "sceltemultiple": [
+          "A) 1, 4, 2, 1",
+          "B) 2, 4, 2, 1",
+          "C) 1, 8, 4, 2",
+          "D) 2, 4, 2, 4",
+          "E) Nessuna delle altre risposte è corretta"
+        ]
+      },{
+        "domanda": "ZnO in soluzione acquosa:",
+        "sceltemultiple": [
+          "A) si comporta da base a pH acido ed acido a pH basico",
+          "B) si comporta da acido a pH acido e base a pH basico",
+          "C) si comporta da base sia a pH acido che a pH basico",
+          "D) si comporta da acido sia a pH acido che a pH basico",
+          "E) non dà reazioni acido-base"
+        ]
+      },{
+        "domanda": "Un esempio di acido è:",
+        "sceltemultiple": [
+          "A) HClO",
+          "B) KOH",
+          "C) NaCl",
+          "D) NaOH",
+          "E) Ca(OH)2"
+        ]
+      },{
+        "domanda": "Quanti isomeri strutturali della molecola C4H9Br esistono?",
+        "sceltemultiple": [
+          "A) 4",
+          "B) 2",
+          "C) 3",
+          "D) 5",
+          "E) 6"
+        ]
+      },{
+        "domanda": "Se una soluzione acquosa di H2SO4 ha una molarità 2 M, qual è la sua normalità?",
+        "sceltemultiple": [
+          "A) 4 N",
+          "B) 2 N",
+          "C) 1 N",
+          "D) 3 N",
+          "E) 6 N"
+        ]
+      },{
+        "domanda": "Quale dei seguenti composti ha il nome tradizionale di anidride clorica?",
+        "sceltemultiple": [
+          "A) Cl2O5",
+          "B) Cl2O7",
+          "C) Cl2O",
+          "D) Cl2O3",
+          "E) ClO3"
+        ]
+      }
+    ]

@@ -1,0 +1,121 @@
+[
+    {
+        "domanda": "Le soluzioni della disequazione ((x^2 + 4)(x - 3)^2) / (x - 1) ≥ 0 sono i numeri reali x tali che:",
+        "sceltemultiple": [
+          "A) x > 1",
+          "B) 1 < x ≤ 3",
+          "C) x ≥ 3",
+          "D) x ≤ -2 o 2 < x ≤ 3",
+          "E) Nessuna delle altre risposte è corretta"
+        ]
+      },
+      {
+        "domanda": "L'equazione x^3 - 2x^2 - x - 6 = 0 ha tra le sue soluzioni:",
+        "sceltemultiple": [
+          "A) 3",
+          "B) -1",
+          "C) 1",
+          "D) -3",
+          "E) Nessuna delle altre risposte è corretta"
+        ]
+      },{
+        "domanda": "Il numero (2)^(3/4) è uguale a:",
+        "sceltemultiple": [
+          "A) ⁴√(2^3)",
+          "B) ³√(2^4)",
+          "C) 16^3",
+          "D) 2³√2",
+          "E) 8^3"
+        ]
+      },{
+        "domanda": "La conica di equazione 2x^2 + 2y^2 - 3x - 4y - 6 = 0 è:",
+        "sceltemultiple": [
+          "A) una circonferenza",
+          "B) una parabola",
+          "C) una ellisse, che non è una circonferenza",
+          "D) una iperbole",
+          "E) una coppia di rette"
+        ]
+      },{
+        "domanda": "Il numero decimale periodico 2,95 è uguale a:",
+        "sceltemultiple": [
+          "A) 293/99",
+          "B) 295/99",
+          "C) 293/90",
+          "D) 295/90",
+          "E) 293/9"
+        ]
+      },{
+        "domanda": "Lanciando due volte un dado a sei facce qual è la probabilità che in almeno un lancio si ottenga un 5 o un 6?",
+        "sceltemultiple": [
+          "A) 20/36",
+          "B) 24/36",
+          "C) 22/36",
+          "D) 11/36",
+          "E) 12/36"
+        ]
+      },{
+        "domanda": "Come si chiama il passaggio diretto di una sostanza dallo stato solido a quello aeriforme?",
+        "sceltemultiple": [
+          "A) Sublimazione",
+          "B) Evaporazione",
+          "C) Condensazione",
+          "D) Fusione",
+          "E) Brinamento"
+        ]
+      },{
+        "domanda": "Quale fra le seguenti NON è una caratteristica di un gas ideale?",
+        "sceltemultiple": [
+          "A) È costituito da molecole distinguibili l’una dall’altra",
+          "B) È costituito da molecole puntiformi, cioè di volume trascurabile",
+          "C) Gli urti tra molecole del gas e le pareti del recipiente sono elastici",
+          "D) Tra le molecole del gas non si esercitano forze di interazione a distanza",
+          "E) Il moto delle molecole è disordinato e le loro velocità sono distribuite casualmente in ogni direzione"
+        ]
+      },{
+        "domanda": "Dato un filo di rame percorso da corrente, che succede a un ago magnetico posto vicino a esso?",
+        "sceltemultiple": [
+          "A) Si orienta nella direzione del campo magnetico generato dal filo",
+          "B) Si orienta in direzione perpendicolare al campo magnetico generato dal filo",
+          "C) Rimane fermo",
+          "D) Si orienta nella direzione del campo magnetico terrestre",
+          "E) Si dispone lungo il filo"
+        ]
+      },{
+        "domanda": "Su quale legge fisica si basa il principio di funzionamento del trasformatore di tensione?",
+        "sceltemultiple": [
+          "A) Legge di Faraday",
+          "B) Teorema di Gauss",
+          "C) Legge di Coulomb",
+          "D) Leggi di Kirchhoff",
+          "E) Leggi di Ohm"
+        ]
+      },{
+        "domanda": "La traiettoria di un punto materiale si definisce come:",
+        "sceltemultiple": [
+          "A) il luogo dei punti occupati dal punto materiale durante il suo moto",
+          "B) la legge che fornisce la posizione del punto materiale in funzione del tempo",
+          "C) il segmento che unisce la posizione iniziale e finale del punto materiale",
+          "D) la curva che descrive l’andamento della velocità nel tempo",
+          "E) la pendenza del grafico orario"
+        ]
+      },{
+        "domanda": "Quale è l’accelerazione media di una Ferrari SF90 che scatta da 0 alla velocità di 100 km/h in 2.5 s?",
+        "sceltemultiple": [
+          "A) circa 11 m/s^2",
+          "B) circa 40 m/s^2",
+          "C) circa 16 m/s^2",
+          "D) circa 9,8 m/s^2",
+          "E) circa −40 m/s^2"
+        ]
+      },{
+        "domanda": "Un corpo di volume V viene immerso in un liquido. Se il corpo affonda, quale delle seguenti relazioni che legano il peso specifico del corpo P_C al peso specifico del liquido P_L è corretta?",
+        "sceltemultiple": [
+          "A) P_C > P_L",
+          "B) P_C < P_L",
+          "C) P_C = P_L",
+          "D) 9,81 * P_C = P_L",
+          "E) V * P_C = P_L"
+        ]
+      }
+    ]

@@ -1,0 +1,50 @@
+[
+    {
+        "domanda": "Siano A, B, C tre enunciati. La proposizione ((A ⋀ B) ⋀ ¬C) risulta vera se:",
+        "sceltemultiple": [
+          "A) A e B sono vere e C è falsa",
+          "B) A, B e C sono vere",
+          "C) A è vera, B e C sono false",
+          "D) A e C sono vere e B è falsa",
+          "E) A è falsa, B e C sono vere"
+        ]
+      },
+      {
+        "domanda": "Tutti gli innamorati sono felici. Chi è felice sorride. Roberto è felice. Se le precedenti osservazioni sono vere, quale delle seguenti deduzioni è certamente non corretta?",
+        "sceltemultiple": [
+          "A) Chi è felice è innamorato.",
+          "B) Roberto sorride.",
+          "C) Chi è innamorato sorride.",
+          "D) Non è detto che Roberto sia innamorato.",
+          "E) Roberto è felice."
+        ]
+      },
+      {
+        "domanda": "La casa di Andrea ha un’estensione che supera di 42 metri quadri la metà della superficie complessiva delle case di Benedetto e Cesare. Indicando con A, B e C rispettivamente l’estensione in metri quadri delle case di Andrea, Benedetto e Cesare, quale delle seguenti uguaglianze è corretta?",
+        "sceltemultiple": [
+          "A) A − 42 = (B + C)/2",
+          "B) A + 42 = (B + C)/2",
+          "C) A = 42 + 2(B + C)",
+          "D) A = (42 + B + C)/2",
+          "E) A + 42 = 2(B + C)"
+        ]
+      },{
+        "domanda": "Dopo la scuola, Andrea ha sempre molta fame e si ferma in una panetteria. Quando compra due focacce ripiene ed una pasta spende 8 €, quando compra una focaccia ripiena e due paste spende 7 €. Oggi ha comprato soltanto una focaccia ripiena ed una pasta, quanto ha speso?",
+        "sceltemultiple": [
+          "A) 5 €",
+          "B) 6 €",
+          "C) 4 €",
+          "D) 4,50 €",
+          "E) 5,50 €"
+        ]
+      },{
+        "domanda": "Un pendolare per andare al lavoro prende il treno in direzione nord. All’andata, la mattina, si siede rivolto nella stessa direzione di marcia del treno con il finestrino direttamente alla sua sinistra. Al ritorno, la sera, si siede rivolto nella direzione di marcia contraria a quella del treno con il finestrino direttamente alla sua destra. Quale delle seguenti affermazioni è corretta?",
+        "sceltemultiple": [
+          "A) Al ritorno, la sera, il pendolare si siede accanto ad un finestrino rivolto ad est",
+          "B) I finestrini accanto ai quali il pendolare si siede sono sempre rivolti verso lo stesso punto cardinale sia nel viaggio di andata che in quello di ritorno",
+          "C) Nel viaggio di andata ed in quello di ritorno, il pendolare è rivolto verso punti cardinali diversi",
+          "D) All’andata, la mattina, il pendolare si siede accanto ad un finestrino rivolto ad est",
+          "E) Al ritorno, la sera, il pendolare si siede rivolto a sud"
+        ]
+      }    
+]

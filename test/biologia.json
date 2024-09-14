@@ -1,0 +1,218 @@
+[
+    {
+        "domanda": "Viene definito eterozigote per un determinato carattere:",
+        "sceltemultiple": [
+          "A) un organismo che per un dato gene, presenta alleli diversi su cromosomi omologhi",
+          "B) il gamete portatore del cromosoma Y",
+          "C) un organismo che per un dato gene, presenta alleli identici su cromosomi omologhi",
+          "D) lo zigote maschile",
+          "E) più forme dello stesso zigote"
+        ]
+      },{
+        "domanda": "Quale delle seguenti affermazioni riferite alla catena di trasporto degli elettroni nei mitocondri NON è corretta?",
+        "sceltemultiple": [
+          "A) Gli elettroni, lungo la catena di trasporto, incrementano ad ogni passaggio la loro energia libera",
+          "B) L’accettore finale degli elettroni è l’ossigeno",
+          "C) I trasportatori accettando e cedendo elettroni si alternano tra uno stato ridotto e uno ossidato",
+          "D) I trasportatori di elettroni sono associati alla membrana interna dei mitocondri",
+          "E) Gli elettroni trasportati lungo la catena provengono da molecole di NADH e FADH_2"
+        ]
+      },
+      {
+        "domanda": "A quale classe appartengono gli enzimi responsabili del legame tra due molecole?",
+        "sceltemultiple": [
+          "A) ligasi",
+          "B) idrolasi",
+          "C) transferasi",
+          "D) ossidoreduttasi",
+          "E) liasi"
+        ]
+      },{
+        "domanda": "La secrezione del glucagone è regolata da:",
+        "sceltemultiple": [
+          "A) livelli di glucosio ematico",
+          "B) ipotalamo",
+          "C) tiroide",
+          "D) variazioni del pH del sangue",
+          "E) livelli di adrenalina"
+        ]
+      },{
+        "domanda": "Il lattosio è:",
+        "sceltemultiple": [
+          "A) un disaccaride la cui idrolisi produce galattosio e glucosio",
+          "B) un monosaccaride",
+          "C) un disaccaride la cui idrolisi produce fruttosio e glucosio",
+          "D) un polisaccaride",
+          "E) una glicoproteina"
+        ]
+      },
+      {
+        "domanda": "Che cos’è il colesterolo?",
+        "sceltemultiple": [
+          "A) Un lipide con struttura tetraciclica",
+          "B) Un glicolipide con struttura lineare",
+          "C) Un trigliceride",
+          "D) Un acido grasso saturo",
+          "E) Una lipoproteina"
+        ]
+      },{
+        "domanda": "Una anomalia in cui è presente un cromosoma in più o uno in meno rispetto al normale è detta:",
+        "sceltemultiple": [
+          "A) aneuploidia",
+          "B) trisomia",
+          "C) monosomia",
+          "D) cariotipo",
+          "E) traslocazione"
+        ]
+      },{
+        "domanda": "Qual è il nome del processo mediante il quale le molecole fluiscono da un'area di maggiore concentrazione a una di minore concentrazione?",
+        "sceltemultiple": [
+          "A) Diffusione",
+          "B) Trasfusione",
+          "C) Respirazione",
+          "D) Dialisi",
+          "E) Trasporto attivo primario"
+        ]
+      },{
+        "domanda": "La porzione del cromosoma metafasico che tiene uniti i cromatidi fratelli è:",
+        "sceltemultiple": [
+          "A) il centromero",
+          "B) il sarcomero",
+          "C) il chiasma",
+          "D) il centriolo",
+          "E) il telomero"
+        ]
+      },{
+        "domanda": "Quale delle seguenti affermazioni riguardante il fenomeno della inattivazione di un cromosoma X nelle cellule femminili dei mammiferi è corretta?",
+        "sceltemultiple": [
+          "A) Generalmente, per i geni associati all'X, nei tessuti femminili 1/2 delle cellule esprimono gli alleli paterni e 1/2 quelli materni",
+          "B) Le cellule femminili esprimono una quantità doppia dei prodotti genici associati all'X delle cellule maschili",
+          "C) Il corpo di Barr presente nei nuclei interfasici rappresenta il cromosoma X inattivo ed è presente nelle cellule somatiche sia maschili che femminili",
+          "D) Il numero dei corpi di Barr presenti nelle cellule somatiche femminili è uguale al numero delle X presenti nella cellula",
+          "E) Nelle cellule somatiche femminili è presente un solo cromosoma X per cellula"
+        ]
+      },{
+        "domanda": "Che cosa sono le coronarie?",
+        "sceltemultiple": [
+          "A) Arterie che irrorano e nutrono il cuore",
+          "B) Arterie che portano il sangue ossigenato al cervello",
+          "C) Cellule che circondano gli assoni dei neuroni motori",
+          "D) Cellule del sistema nervoso che provvedono al supporto e protezione dei neuroni",
+          "E) Fibre del sistema di conduzione del cuore"
+        ]
+      },
+      {
+        "domanda": "Che cos’è la bradicardia?",
+        "sceltemultiple": [
+          "A) Una frequenza cardiaca al di sotto della norma",
+          "B) Un’alterazione del miocardio che lo rende più piccolo del normale",
+          "C) Un valore della pressione diastolica inferiore a 60 mmHg",
+          "D) Un’anomalia delle valvole atrioventricolari",
+          "E) Una gittata cardiaca inferiore a 5L/min"
+        ]
+      },
+      {
+        "domanda": "La produzione di quale sostanza può essere compromessa da una patologia che interessi il pancreas endocrino?",
+        "sceltemultiple": [
+          "A) Insulina",
+          "B) Gastrina",
+          "C) Istamina",
+          "D) Adrenalina",
+          "E) Ossitocina"
+        ]
+      },
+      {
+        "domanda": "In quale tessuto gli elementi cellulari sono chiamati condrociti?",
+        "sceltemultiple": [
+          "A) Cartilagineo",
+          "B) Connettivo denso",
+          "C) Muscolare cardiaco",
+          "D) Osseo spugnoso",
+          "E) Epiteliale ghiandolare"
+        ]
+      },{
+        "domanda": "Cosa si intende per “struttura secondaria” di una proteina?",
+        "sceltemultiple": [
+          "A) La conformazione della catena polipeptidica in regioni ad alfa-elica o a foglietto beta",
+          "B) La forma che assume appena dopo la sintesi",
+          "C) La sua sequenza di nucleotidi",
+          "D) La sua sequenza di amminoacidi",
+          "E) Il numero di subunità di cui è composta la proteina attiva"
+        ]
+      },{
+        "domanda": "Il codice genetico:",
+        "sceltemultiple": [
+          "A) è composto da 64 codoni, di cui tre di STOP",
+          "B) è composto da 64 codoni codificanti per amminoacidi",
+          "C) è composto da 64 codoni, ognuno dei quali codificante per un amminoacido diverso",
+          "D) è diverso da un organismo all’altro",
+          "E) negli eucarioti è costituito da DNA, mentre nei virus da RNA"
+        ]
+      },
+      {
+        "domanda": "Il promotore:",
+        "sceltemultiple": [
+          "A) è una sequenza di DNA necessaria per regolare la trascrizione di un gene",
+          "B) è una sequenza di RNA necessaria per attivare la trascrizione di un gene",
+          "C) è una sequenza di RNA necessaria per attivare la traduzione",
+          "D) è il sito di inizio della trascrizione di un gene",
+          "E) è un fattore proteico necessario per attivare la trascrizione di un gene"
+        ]
+      },
+      {
+        "domanda": "I virus:",
+        "sceltemultiple": [
+          "A) possono avere genoma a DNA o a RNA",
+          "B) possono replicarsi al di fuori delle cellule ospiti",
+          "C) sono i più piccoli organismi viventi",
+          "D) non infettano le cellule vegetali",
+          "E) uccidono sempre le cellule che infettano"
+        ]
+      },
+      {
+        "domanda": "Quale delle seguenti affermazioni NON è corretta?",
+        "sceltemultiple": [
+          "A) I glicolipidi sono i principali costituenti delle membrane cellulari",
+          "B) Il glicerolo è un composto organico che contiene tre gruppi ossidrilici",
+          "C) Il glicogeno è un polisaccaride con funzione di riserva energetica",
+          "D) La gliceraldeide è un carboidrato a tre atomi di carbonio",
+          "E) Il glifosato è una sostanza ad azione diserbante"
+        ]
+      },{
+        "domanda": "Quale delle seguenti molecole NON è un polimero?",
+        "sceltemultiple": [
+          "A) Desossiribosio",
+          "B) tRNA",
+          "C) Insulina",
+          "D) Amido",
+          "E) Chitina"
+        ]
+      },{
+        "domanda": "Quale delle seguenti affermazioni è corretta?",
+        "sceltemultiple": [
+          "A) Gli amminoacidi cisteina e metionina contengono un atomo di zolfo",
+          "B) Gli amminoacidi essenziali per l’uomo sono 20",
+          "C) L’amminoacido con cui inizia la sintesi di una proteina è sempre l’arginina",
+          "D) Tutti gli amminoacidi hanno catene laterali polari",
+          "E) Tutti gli amminoacidi possiedono un atomo di carbonio asimmetrico"
+        ]
+      },{
+        "domanda": "Quale delle seguenti affermazioni riferite ai carboidrati è corretta?",
+        "sceltemultiple": [
+          "A) La gliceraldeide è un monosaccaride che contiene tre atomi di carbonio",
+          "B) Tutti i carboidrati contengono carbonio, ossigeno, idrogeno e azoto",
+          "C) I carboidrati presenti negli organismi vegetali hanno solo funzione strutturale",
+          "D) Ribosio e desossiribosio sono zuccheri a sei atomi di carbonio",
+          "E) Il galattosio è un disaccaride formato dall’unione di una molecola di glucosio e una di lattosio"
+        ]
+      },{
+        "domanda": "Che cos’è il collagene, la molecola più presente nella matrice extracellulare della maggior parte delle cellule animali?",
+        "sceltemultiple": [
+          "A) Una proteina",
+          "B) Uno steroide",
+          "C) Un trigliceride",
+          "D) Un polisaccaride",
+          "E) Un glicolipide"
+        ]
+      }
+]

@@ -1,0 +1,312 @@
+{
+    "biologia": [
+        {
+            "materia": "biologia",
+            "domanda": "Viene definito eterozigote per un determinato carattere:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti affermazioni riferite alla catena di trasporto degli elettroni nei mitocondri NON \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "A quale classe appartengono gli enzimi responsabili del legame tra due molecole?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "La secrezione del glucagone \u00e8 regolata da:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Il lattosio \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Che cos\u2019\u00e8 il colesterolo?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Una anomalia in cui \u00e8 presente un cromosoma in pi\u00f9 o uno in meno rispetto al normale \u00e8 detta:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Qual \u00e8 il nome del processo mediante il quale le molecole fluiscono da un'area di maggiore concentrazione a una di minore concentrazione?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "La porzione del cromosoma metafasico che tiene uniti i cromatidi fratelli \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti affermazioni riguardante il fenomeno della inattivazione di un cromosoma X nelle cellule femminili dei mammiferi \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Che cosa sono le coronarie?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Che cos\u2019\u00e8 la bradicardia?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "La produzione di quale sostanza pu\u00f2 essere compromessa da una patologia che interessi il pancreas endocrino?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "In quale tessuto gli elementi cellulari sono chiamati condrociti?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Cosa si intende per \u201cstruttura secondaria\u201d di una proteina?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Il codice genetico:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Il promotore:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "I virus:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti affermazioni NON \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti molecole NON \u00e8 un polimero?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti affermazioni \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Quale delle seguenti affermazioni riferite ai carboidrati \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "biologia",
+            "domanda": "Che cos\u2019\u00e8 il collagene, la molecola pi\u00f9 presente nella matrice extracellulare della maggior parte delle cellule animali?",
+            "punteggio": 1.5
+        }
+    ],
+    "chimica": [
+        {
+            "materia": "chimica",
+            "domanda": "Quale delle seguenti sequenze mette correttamente in ordine di ossigenazione crescente i composti organici citati?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Qual \u00e8 la formula bruta di un alcano avente n atomi di carbonio?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Il benzene \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "In base alla teoria di Lewis, una base \u00e8 una sostanza in grado di:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Il punto triplo di una sostanza \u00e8 un particolare stato termodinamico determinato da valori di pressione e temperatura in corrispondenza del quale:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Quale tra i seguenti elementi chimici \u00e8 un metallo alcalino-terroso?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Un acido forte solubilizzato in acqua:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "CH3-CH2-NH-CH2-CH3",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Il fenolo:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Bilanciare la seguente reazione: SiO2 + HF => H2O + SiF4",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "ZnO in soluzione acquosa:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Un esempio di acido \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Quanti isomeri strutturali della molecola C4H9Br esistono?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Se una soluzione acquosa di H2SO4 ha una molarit\u00e0 2 M, qual \u00e8 la sua normalit\u00e0?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "chimica",
+            "domanda": "Quale dei seguenti composti ha il nome tradizionale di anidride clorica?",
+            "punteggio": 1.5
+        }
+    ],
+    "letteratura": [
+        {
+            "materia": "letteratura",
+            "domanda": "La frase 'Don Abbondio non era nato con un cuor di leone' \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "letteratura",
+            "domanda": "La scoperta delle vitamine fu una vera e propria rivoluzione. In effetti l\u2019era della ricerca vitaminica comincia alla fine del XIX secolo, in un\u2019epoca in cui i lavori di Pasteur mettono in evidenza che la presenza di agenti esogeni (microbi o tossine microbiche) \u00e8 responsabile di alcune malattie. Per le vitamine, i ricercatori dovranno attenersi ad un modo di procedere inverso in quanto \u00e8 l\u2019assenza di un fattore nutrizionale che \u00e8 all\u2019origine delle grandi malattie carenziali: beri-beri, scorbuto, rachitismo, pellagra. [\u2026] Le vitamine sono sostanze organiche, senza valore energetico proprio, necessarie per l\u2019organismo e che l\u2019uomo non pu\u00f2 sintetizzare in quantit\u00e0 sufficiente; devono essere quindi fornite dall\u2019alimentazione. Le vitamine costituiscono un gruppo di molecole chimicamente molto eterogeneo; alcune di esse hanno strutture che somigliano a quelle di altri composti organici: vitamina C e zuccheri, vitamina D e ormoni steroidei, vitamina B12 e porfirine. (J. Le Grusse, B. Waitier \u2212 Le vitamine \u2212 Centro studi Roche)\n\nQuale delle seguenti affermazioni non \u00e8 deducibile dal testo?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "letteratura",
+            "domanda": "\u201cFenomeno consistente nella riduzione del livello generale dei prezzi e nel conseguente aumento del potere d\u2019acquisto della moneta, generalmente determinati da una riduzione della quantit\u00e0 di moneta in circolazione rispetto al reddito prodotto: si tratta di un fenomeno indesiderato manifestatosi generalmente associato a una riduzione dell\u2019attivit\u00e0 economica.\u201d (Enciclopedia Treccani)\n\nA quale dei seguenti termini si riferisce la definizione sopra riportata?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "letteratura",
+            "domanda": "Accanto a ciascuna riflessione sui testi biblici, \u00e8 stato inserito il riferimento a una vicenda storica, contemporanea o vicina al nostro tempo. [\u2026..] Persino nel nostro tempo molte altre figure potrebbero essere riconosciute capaci di profezia: sono uomini e donne, anche decisamente estranei alla comunit\u00e0 ecclesiale, che sanno ascoltare le parole di speranza delle Scritture, pur senza chiamarle \u201csacre\u201d; che sanno riconoscere la Via che conduce al bene dell\u2019umanit\u00e0 senza chiamarla \u201csalvezza\u201d; che spendono la loro vita per accompagnare gli altri alla pienezza di s\u00e9 e del dono in loro seminato, anche senza appellarsi all\u2019etica che sgorga dall\u2019esperienza cristiana; che incarnano con convinzione e dedizione la ricchezza che noi conosciamo dalla Buona Notizia di Ges\u00f9, magari anche senza riferircisi o conoscerla.\nOrazio Antoniazzi \u2212 Lo Spirito come il Vento soffia dove vuole \u2212 Centro Ambrosiano\n\nQuale delle seguenti deduzioni ricavate dalla lettura del testo \u00e8 corretta?",
+            "punteggio": 1.5
+        }
+    ],
+    "logica": [
+        {
+            "materia": "logica",
+            "domanda": "Siano A, B, C tre enunciati. La proposizione ((A \u22c0 B) \u22c0 \u00acC) risulta vera se:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "logica",
+            "domanda": "Tutti gli innamorati sono felici. Chi \u00e8 felice sorride. Roberto \u00e8 felice. Se le precedenti osservazioni sono vere, quale delle seguenti deduzioni \u00e8 certamente non corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "logica",
+            "domanda": "La casa di Andrea ha un\u2019estensione che supera di 42 metri quadri la met\u00e0 della superficie complessiva delle case di Benedetto e Cesare. Indicando con A, B e C rispettivamente l\u2019estensione in metri quadri delle case di Andrea, Benedetto e Cesare, quale delle seguenti uguaglianze \u00e8 corretta?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "logica",
+            "domanda": "Dopo la scuola, Andrea ha sempre molta fame e si ferma in una panetteria. Quando compra due focacce ripiene ed una pasta spende 8 \u20ac, quando compra una focaccia ripiena e due paste spende 7 \u20ac. Oggi ha comprato soltanto una focaccia ripiena ed una pasta, quanto ha speso?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "logica",
+            "domanda": "Un pendolare per andare al lavoro prende il treno in direzione nord. All\u2019andata, la mattina, si siede rivolto nella stessa direzione di marcia del treno con il finestrino direttamente alla sua sinistra. Al ritorno, la sera, si siede rivolto nella direzione di marcia contraria a quella del treno con il finestrino direttamente alla sua destra. Quale delle seguenti affermazioni \u00e8 corretta?",
+            "punteggio": 1.5
+        }
+    ],
+    "matematica": [
+        {
+            "materia": "matematica",
+            "domanda": "Le soluzioni della disequazione ((x^2 + 4)(x - 3)^2) / (x - 1) \u2265 0 sono i numeri reali x tali che:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "L'equazione x^3 - 2x^2 - x - 6 = 0 ha tra le sue soluzioni:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Il numero (2)^(3/4) \u00e8 uguale a:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "La conica di equazione 2x^2 + 2y^2 - 3x - 4y - 6 = 0 \u00e8:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Il numero decimale periodico 2,95 \u00e8 uguale a:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Lanciando due volte un dado a sei facce qual \u00e8 la probabilit\u00e0 che in almeno un lancio si ottenga un 5 o un 6?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Come si chiama il passaggio diretto di una sostanza dallo stato solido a quello aeriforme?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Quale fra le seguenti NON \u00e8 una caratteristica di un gas ideale?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Dato un filo di rame percorso da corrente, che succede a un ago magnetico posto vicino a esso?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Su quale legge fisica si basa il principio di funzionamento del trasformatore di tensione?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "La traiettoria di un punto materiale si definisce come:",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Quale \u00e8 l\u2019accelerazione media di una Ferrari SF90 che scatta da 0 alla velocit\u00e0 di 100 km/h in 2.5 s?",
+            "punteggio": 1.5
+        },
+        {
+            "materia": "matematica",
+            "domanda": "Un corpo di volume V viene immerso in un liquido. Se il corpo affonda, quale delle seguenti relazioni che legano il peso specifico del corpo P_C al peso specifico del liquido P_L \u00e8 corretta?",
+            "punteggio": 1.5
+        }
+    ]
+}
